@@ -5,8 +5,8 @@ Hola bienvenido a mis notas de aprendizaje de R para ciencia de datos. En este r
 
 Te invito a colaborar con este repositorio. Eres libre de apoyar este proyecto, solo deja al final de este README tu nombre como colaborador y si quieres un link de contacto (correo, twitter o facebook).
 
-¿Quieres usar R en jupyter notebooks?
-abajo en **Links Interesantes** encuentras un tutorial en youtube y un repositorio en GitHub donde encontrarás las guias de instalacion en tu PC.
+**¿Quieres usar R en jupyter notebooks?**
+Abajo en **Links Interesantes** encuentras un tutorial en **youtube** y un repositorio en GitHub con las guias de instalacion en tu PC.
 
 ### Temas
 
